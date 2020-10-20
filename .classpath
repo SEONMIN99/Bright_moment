@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="[01주차강의자료]_files"/>
+	<classpathentry kind="lib" path="[02주차강의자료]_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="[02주차강의자료]_files/httpclient-4.5.9.jar"/>
+	<classpathentry kind="lib" path="[02주차강의자료]_files/httpcore-4.4.11.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
