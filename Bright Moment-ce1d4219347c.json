@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bright-moment",
+  "private_key_id": "ce1d4219347cf44aee7c9ce370e2c445bd185d43",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCTmSVvjcu5kIr+\n+q0lNSCHxCt12ZWOjrIJaGt02t3EEg3/r12psNQ6sWMivEhj/E7P1EXIiONbIg83\n3a4m4NK8pivVufgAXsBjgFbiWFDUYmco/bUCRzQjDXXbr7LlQFcPXRCAcQiyxyeD\nfMl0uliKm2RH/HVaYPCD6s89UwmUgwWhK/t3UJxxTEd8EBC+zNYZNc3LZsTjX7Ln\nAzh2S0uCcW5qY+iYguOlR3uniTZ/q96WfOLx16HAg+q1GJ58mDRpKWG2JpBd4ZQ4\nkNhL5sxNAJ/X/jGpuzbGEwmzLm01ixy1NALb6Q+KAHo2c2Aknat7jtfYE4Owzhhr\nqMNa8KgZAgMBAAECggEAAQVT7P8Ek3QaScayM2Vw/OtlCUbcSfsalkKZG4yVPrTI\n+6O1l8BlmV5Dyk2As9X+rraKwPVKogi81vUIY4WykaXAZv/qlshmUGAU3xXqCGwB\nwEiP67Bur9ZudAHyF4k6erHK0WlDKrxe2f5boUbdDIskHW1JFI0JubK7K/MIK7jP\nSqZZa6QxHRd3BDJbpXJSg3TX1V6iw2YqyoVNyBUa39sw9mrCZezWj5OAygMkVc0p\nLuTVavylX7nH7dcABRwG5S+kyjpNhv2aPAvbPHHFnhCAeBx6FAulTUbeWR7E9AP6\ng/T/fIoMHnG+JUE1lzetqFAIrcO35jar5+TMpLtqgQKBgQDK3ob74E+BhZL2+4to\nOrhO0MokFtvZo37GJxGyk6KKw9g2+hvvLCSM3hTlPoEcBUJgWg2kXB5/hB5oDiMz\n6anwoEqKb5i96jDC83Zo/zqWm/AL/qK4NvoDScf+jMetZra+fHE82qLpq26Rm3UW\nTY4HQOlYUIflfl7vFUd9KEJNmQKBgQC6QPHxa5/bJqM3+8TPyQawp0TdpeAanhLR\nNES4zfGQnCv8CPapjM4E1mUsXqM7owZDWVzgmehHQ1hsxNKmo5DL+7YOWEjiF66G\ndfIWtU3EpyselTpz17XXqgoJnGx3Lldv8nPIEAyhVA3mgSxb+G+T6v8t887si6Wq\nx3s90XC+gQKBgQCz14WucHHLDpD0ZpZ1NekB5dHtIF6Rl4DhRO1Jc9uaTHe2dQ6i\nfm2Ae7fmafymzHrFU8/YLtnSjVsvP6kxcil26YJrKvcrFRtZF9+WwPw9W8v3tiqm\nSAZnN9cV79NsAyxpvYPdQK0/nPwOFNQ9i08nWwIBipKOffLG3AReDXyJsQKBgHEb\ndZIt0KMuoJoj3A5vPw/SVKDh1el0K2s+ealc76DpJlDlRJ4McyQ+6qv6QNi7lNcb\nkqqW7JcyT6WmFWK7G/i0QIgPlxsuVH81azHdIoAVILtu1lN5IOX6TiQuCTSLQPAr\n5aIOFQ131QUxVrX3dhL298Z5NCU0XQQMJkyRPw2BAoGBALr1ZoZGx8Hiy2HpA3k+\njYqhHzW4blFhEezBpBBZsZzUi21r8WSODSYaL+NKXW0GRuMxYKsapcNv9yA2wuA4\nNc92pEClIEYFTFGxNRjMGwkuFajIWj+QgRRh1cB425qIN+q550f2XeoJ2Knb7Rru\nSAUT8dr2uJ9j2rt06v0V6o/s\n-----END PRIVATE KEY-----\n",
+  "client_email": "id-harmony@bright-moment.iam.gserviceaccount.com",
+  "client_id": "117569020679805797364",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/id-harmony%40bright-moment.iam.gserviceaccount.com"
+}
